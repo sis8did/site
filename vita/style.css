@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(to right, rgb(0, 153, 255), rgb(243, 151, 166) );
+}
+h1 {
+    background-image: linear-gradient(to right, rgb(243, 151, 166),rgb(0, 153, 255)  );
+    font-size: 47px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+img {
+    width: 189px; /* Exemplo de largura */
+    background-image: linear-gradient(to right, rgb(243, 151, 166),rgb(0, 153, 255)  );
+}
+a {
+    text-decoration: none;
+}
+pre {
+    text-decoration: none;
+}
+.modh1 {
+    font-size: 87px;
+    font-family:cursive ;
+}
+.modpp {
+    background-image: linear-gradient(to right, rgb(243, 151, 166),rgb(0, 153, 255)  );
+    font-size: 37px;
+    font-family: cursive;
+    color: whitesmoke;
+    text-align: right;
+}
+.modp {
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: cursive;
+}
